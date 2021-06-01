@@ -8,5 +8,6 @@
     "nome": "string",
     "disp": "boolean",
     "valor": "int"
+    "item": "Item"
   }
 }
