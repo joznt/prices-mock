@@ -1,1 +1,21 @@
-
+{
+"id": 3811564,
+"nome": "Ração Golden Formula Cães Adultos Raças Pequenas Carne e Arroz Mini Bits",
+"opcoes": [
+{
+"nome": "1 KG",
+"disp": true,
+"valor": "R$ 18,90"
+},
+{
+"nome": "3 KG",
+"disp": true,
+"valor": "R$ 49,90"
+},
+{
+"nome": "15 KG",
+"disp": true,
+"valor": "R$ 139,90"
+}
+]
+}
