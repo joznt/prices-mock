@@ -1,12 +1,12 @@
 {
-  "items": {
+  "Items": {
     "id": "int",
     "nome": "string",
-    "opcoes": "Opcoes[]"
+    "options": "Option[]"
   },
-  "Opcoes": {
+  "Option": {
     "nome": "string",
-    "disp": "bollean",
+    "disp": "boolean",
     "valor": "int"
   }
 }
