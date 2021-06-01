@@ -7,7 +7,7 @@
   "Option": {
     "nome": "string",
     "disp": "boolean",
-    "valor": "int"
+    "valor": "int",
     "item": "Item"
   }
 }
