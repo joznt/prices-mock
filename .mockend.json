@@ -1,5 +1,5 @@
 {
-  "Items": {
+  "Item": {
     "id": "int",
     "nome": "string",
     "options": "Option[]"
